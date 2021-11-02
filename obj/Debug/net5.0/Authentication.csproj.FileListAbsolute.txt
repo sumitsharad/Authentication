@@ -1,0 +1,159 @@
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\log4net.config
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\appsettings.Development.json
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\appsettings.json
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\ocelot.json
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.exe
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.deps.json
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.json
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.dev.json
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\ref\Authentication.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.pdb
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Castle.Core.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\FluentValidation.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\log4net.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Moq.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\nunit.framework.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Ocelot.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.Manifest.cache
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.xml
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\scopedcss\bundle\Authentication.styles.css
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.RazorTargetAssemblyInfo.cache
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.csproj.CopyComplete
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.pdb
+F:\MFPE Project\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.genruntimeconfig.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\log4net.config
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\appsettings.Development.json
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\appsettings.json
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\ocelot.json
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.exe
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.deps.json
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.json
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.dev.json
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\ref\Authentication.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.pdb
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Castle.Core.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\FluentValidation.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\log4net.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Moq.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\nunit.framework.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Ocelot.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.csproj.AssemblyReference.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.Manifest.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.xml
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\scopedcss\bundle\Authentication.styles.css
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.RazorTargetAssemblyInfo.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.pdb
+D:\COGNIZANT\MFPE\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.genruntimeconfig.cache
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\log4net.config
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\appsettings.Development.json
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\appsettings.json
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\ocelot.json
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.exe
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.deps.json
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.json
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.dev.json
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\ref\Authentication.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Authentication.pdb
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Castle.Core.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\FluentValidation.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\log4net.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Moq.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\nunit.framework.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Ocelot.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.csproj.AssemblyReference.cache
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.Manifest.cache
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.xml
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\scopedcss\bundle\Authentication.styles.css
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.RazorTargetAssemblyInfo.cache
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.pdb
+F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\AuthenticationMicroservice\Authentication\obj\Debug\net5.0\Authentication.genruntimeconfig.cache
